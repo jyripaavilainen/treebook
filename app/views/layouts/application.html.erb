@@ -14,10 +14,14 @@
     <ul class="nav">
       <li><%= link_to "All Statuses", statuses_path %></li>
       <li><%= link_to "Update Status", new_status_path %></li>
+      <li><%= link_to "Register", new_user_registration_path %></li>
     </ul>
   </div>
 </div>
-<%= yield %>
+
+	<p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
+	<%= yield %>
 
 </div>
 </body>
