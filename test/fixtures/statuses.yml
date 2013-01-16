@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: jyri
+
+three:
+  content: Testing
+  user: jyri1

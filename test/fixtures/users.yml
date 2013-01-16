@@ -3,3 +3,9 @@ jyri:
   last_name: "Paavilainen"
   email: "jyri@jyripaavilainen.com"
   profile_name: "jyripaavilainen"
+
+jyri1:
+  first_name: "Jyri1"
+  last_name: "Paavilainen1"
+  email: "jyri1@jyripaavilainen.com"
+  profile_name: "jyripaavilainen1"
